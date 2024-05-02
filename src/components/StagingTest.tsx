@@ -10,6 +10,7 @@ const StagingTest = () => {
         asperiores magni consectetur aliquam dolor nobis. Temporibus, quis sint
         esse laborum eius eligendi perspiciatis quibusdam.
       </p>
+      <h1>THE BEST STAGING TEXT</h1>
     </div>
   );
 };
