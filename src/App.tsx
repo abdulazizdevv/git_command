@@ -1,3 +1,4 @@
+import { NewFeature } from './NewFeature';
 import RevertTest from './components/RevertTest';
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
     <>
       <p>Test</p>
       <RevertTest />
+      <NewFeature />
     </>
   );
 }
