@@ -1,4 +1,4 @@
-import { Commit2 } from './Commit2';
+import { NewFeature } from './NewFeature';
 import RevertTest from './components/RevertTest';
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
     <>
       <p>Test</p>
       <RevertTest />
-      <Commit2 />
+      <NewFeature />
     </>
   );
 }
