@@ -1,3 +1,4 @@
+import { Commit2 } from './Commit2';
 import RevertTest from './components/RevertTest';
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
     <>
       <p>Test</p>
       <RevertTest />
+      <Commit2 />
     </>
   );
 }
